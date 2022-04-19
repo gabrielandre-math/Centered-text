@@ -1,5 +1,5 @@
 # Centered-text
-Exploring some properties
+Exploring some properties.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/zYPbOLd
 
